@@ -2,7 +2,7 @@
 
 If you are contemplating building an application with Angular, you might be giving some thought to how to structure your codebase so it's readable and maintainable. You essentially have to think about the nuts and bolts of Angular, namely controllers, components/directives, factories, templates, and services.
 
-In general, there are a couple of approaches you can take. I present each of these approaches in To-Avoid.md and To-Follow.md. As the filenames imply, I strongly urge to avoid the first approach and recommend following the second.
+In general, there are a couple of approaches you can take. I present each of these approaches in [To-Avoid.md](https://github.com/carlosrymer/Angular-Application-Directory-Structure/blob/master/To-Avoid.md) and [To-Follow.md](https://github.com/carlosrymer/Angular-Application-Directory-Structure/blob/master/To-Follow.md). As the filenames imply, I strongly urge to avoid the first approach and recommend following the second.
 
 ## The Approach to Avoid
 
