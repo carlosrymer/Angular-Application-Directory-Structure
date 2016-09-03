@@ -1,4 +1,4 @@
-# Best Practices for Structuring An Angular App
+# Best Practices for Structuring Angular Apps
 
 If you are contemplating building an application with Angular, you might be giving some thought to how to structure your codebase so it's readable and maintainable. You essentially have to think about the nuts and bolts of Angular, namely controllers, components/directives, factories, templates, and services.
 
